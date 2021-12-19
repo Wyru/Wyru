@@ -17,4 +17,8 @@
 
 <br/>
 
-![Snake animation](https://github.com/Wyru/Wyru/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  
+   ![Snake animation](https://github.com/Wyru/Wyru/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
